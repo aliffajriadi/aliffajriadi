@@ -29,19 +29,19 @@
 
 ## 👨💻 Coding Activity
 
-<!--START_SECTION:waka-->
 
-```text
 🌞 Morning     █████████░░░░░░░░░░░░░░░░   42% 
 🌆 Daytime     ██████░░░░░░░░░░░░░░░░░░░   25% 
 🌃 Evening     ████████████░░░░░░░░░░░░░   58% 
 🌙 Night       ███░░░░░░░░░░░░░░░░░░░░░░   12%
-<!--END_SECTION:waka-->
-📫 Let's Connect!
-GitHub
-LinkedIn
-Instagram
-Gmail
+
+## 📫 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/aliffajriadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliffajriadi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aliffajriadi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliffajriadi@gmail.com)
+
 
 💡 Today's Coding Quote
 "The computer was born to solve problems that did not exist before." - Bill Gates
