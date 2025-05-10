@@ -46,12 +46,3 @@ Gmail
 💡 Today's Coding Quote
 "The computer was born to solve problems that did not exist before." - Bill Gates
 
-
-Untuk membuat lebih interaktif, kamu bisa:
-1. Tambahkan GitHub Action untuk update stats otomatis
-2. Gunakan [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) untuk quote acak
-3. Tambahkan animasi dengan SVG
-4. Customize warna tema sesuai preferensi
-5. Tambahkan portfolio project terbaik
-
-Ingin saya tambahkan fitur tertentu atau modifikasi bagian tertentu? 😊
