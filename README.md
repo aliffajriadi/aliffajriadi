@@ -1,4 +1,4 @@
-# 👋 Hello, I
+# 👋 Hello, 
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
