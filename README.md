@@ -1,4 +1,4 @@
-# 👋 Hello, Im Alif Faj
+# 👋 Hello, Im Alif Fa
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
