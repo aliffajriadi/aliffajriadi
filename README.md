@@ -17,8 +17,8 @@
   <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" height="30" />
 
-  <!-- TanStack Query -->
-  <img src="https://tanstack.com/_next/static/media/react-query-logo.adee5c67.svg" height="30" />
+  <!-- TanStack / React Query -->
+  <img src="https://raw.githubusercontent.com/reactquery/reactquery/main/docs/src/images/logo.svg" height="30" />
 
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
@@ -35,5 +35,4 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
 </p>
-
 
