@@ -1,4 +1,4 @@
-# 👋 Hello, Im Alif Fajriad
+# 👋 Hello, Im Alif Fajria
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
