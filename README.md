@@ -1,4 +1,4 @@
-ssssssesssssssssssssssssssssssssssssssssssssfsssssssss# 👋 Hells
+sssssssesssssssssssssssssssssssssssssssssssssfsssssssss# 👋 Hells
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
