@@ -17,8 +17,7 @@ gsssssssssssesssssssssssssssssssssssssssssssssssssfsssssssss# 👋 Hells
   <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" height="30" />
 
-  <!-- TanStack / React Query -->
-  <img src="https://raw.githubusercontent.com/reactquery/reactquery/main/docs/src/images/logo.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" />
 
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
