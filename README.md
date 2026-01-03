@@ -1,11 +1,10 @@
-gsssssssssssesssssssssssssssssssssssssssssssssssssfsssssssss# 👋 Hells
+👋 Hello
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
 
 ---
 
-## 🚀 Tech Stack
 
 <p align="left">
   <!-- Next.js -->
