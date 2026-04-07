@@ -1,7 +1,5 @@
 👋 Hello im Alif Fajriadi
 
-GO OPEN SOURCE !!
-
 
 🎓 Informatics Engineering Student  
 🧑‍💻 Fullstack Development, Computer Vision & IoT Enthusiast 
